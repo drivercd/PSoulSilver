@@ -1,0 +1,15 @@
+# Never commit the game or anything extracted from it
+*.nds
+*.srl
+*.zip
+*.7z
+*_DSPRE_contents/
+unpacked/
+build/
+
+# Saves and emulator states
+*.sav
+*.dsv
+*.state
+*.ml[0-9]
+*.ds[0-9]
